@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/quockhanhtn/config/master/oh-my-posh/theme.omp.json' | Invoke-Expression
